@@ -1,0 +1,9 @@
+.box{
+    height: 1000px;
+    background-image: url(../images/rasm.jpg);
+    color: red;
+    background-repeat: no-repeat;
+    background-size: 800px 900px;
+    background-position: right top;
+    border: 5px solid red;
+}
